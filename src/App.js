@@ -1,7 +1,12 @@
 import './App.css';
 import logo from './assets/svg/rayo.svg';
+import { useTitle } from './customHooks/useTittle';
+import { useDescription } from './customHooks/useDescription';
 
 function App() {
+  useTitle('Eduardo Chávez - I am developer');
+  useDescription('Portfolio for Eduardo Chávez')
+
   return (
     <div className="app">
       <header className="app-header">
