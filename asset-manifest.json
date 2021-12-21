@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-chavez/static/css/main.fdab0543.css",
-    "main.js": "/portfolio-chavez/static/js/main.985542ab.js",
-    "static/js/787.28a7fba0.chunk.js": "/portfolio-chavez/static/js/787.28a7fba0.chunk.js",
-    "static/media/Nokio-Medium.ttf": "/portfolio-chavez/static/media/Nokio-Medium.8c6265061ebcec1f3fc7.ttf",
-    "static/media/rayo.svg": "/portfolio-chavez/static/media/rayo.1257accb7ca064092839d668bd4d6785.svg",
-    "index.html": "/portfolio-chavez/index.html",
-    "main.fdab0543.css.map": "/portfolio-chavez/static/css/main.fdab0543.css.map",
-    "main.985542ab.js.map": "/portfolio-chavez/static/js/main.985542ab.js.map",
-    "787.28a7fba0.chunk.js.map": "/portfolio-chavez/static/js/787.28a7fba0.chunk.js.map"
+    "main.css": "/static/css/main.6a612f55.css",
+    "main.js": "/static/js/main.bf00a63e.js",
+    "static/js/787.28a7fba0.chunk.js": "/static/js/787.28a7fba0.chunk.js",
+    "static/media/Nokio-Medium.ttf": "/static/media/Nokio-Medium.8c6265061ebcec1f3fc7.ttf",
+    "static/media/rayo.svg": "/static/media/rayo.1257accb7ca064092839d668bd4d6785.svg",
+    "index.html": "/index.html",
+    "main.6a612f55.css.map": "/static/css/main.6a612f55.css.map",
+    "main.bf00a63e.js.map": "/static/js/main.bf00a63e.js.map",
+    "787.28a7fba0.chunk.js.map": "/static/js/787.28a7fba0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdab0543.css",
-    "static/js/main.985542ab.js"
+    "static/css/main.6a612f55.css",
+    "static/js/main.bf00a63e.js"
   ]
 }
