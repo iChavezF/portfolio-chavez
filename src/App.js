@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <img src={logo}></img>
+        <img src={logo} alt="rayo logo"></img>
         <h1>jeckefe</h1>
       </header>
       <main  className="main">
