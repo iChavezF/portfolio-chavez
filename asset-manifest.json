@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ichavezf.github.io/portfolio-chavez/static/css/main.489b3f7e.css",
-    "main.js": "/ichavezf.github.io/portfolio-chavez/static/js/main.939da816.js",
-    "static/js/787.28a7fba0.chunk.js": "/ichavezf.github.io/portfolio-chavez/static/js/787.28a7fba0.chunk.js",
-    "static/media/Nokio-Medium.ttf": "/ichavezf.github.io/portfolio-chavez/static/media/Nokio-Medium.8c6265061ebcec1f3fc7.ttf",
-    "index.html": "/ichavezf.github.io/portfolio-chavez/index.html",
-    "static/media/rayo.svg": "/ichavezf.github.io/portfolio-chavez/static/media/rayo.1257accb7ca064092839d668bd4d6785.svg",
-    "main.489b3f7e.css.map": "/ichavezf.github.io/portfolio-chavez/static/css/main.489b3f7e.css.map",
-    "main.939da816.js.map": "/ichavezf.github.io/portfolio-chavez/static/js/main.939da816.js.map",
-    "787.28a7fba0.chunk.js.map": "/ichavezf.github.io/portfolio-chavez/static/js/787.28a7fba0.chunk.js.map"
+    "main.css": "/portfolio-chavez/static/css/main.fdab0543.css",
+    "main.js": "/portfolio-chavez/static/js/main.985542ab.js",
+    "static/js/787.28a7fba0.chunk.js": "/portfolio-chavez/static/js/787.28a7fba0.chunk.js",
+    "static/media/Nokio-Medium.ttf": "/portfolio-chavez/static/media/Nokio-Medium.8c6265061ebcec1f3fc7.ttf",
+    "static/media/rayo.svg": "/portfolio-chavez/static/media/rayo.1257accb7ca064092839d668bd4d6785.svg",
+    "index.html": "/portfolio-chavez/index.html",
+    "main.fdab0543.css.map": "/portfolio-chavez/static/css/main.fdab0543.css.map",
+    "main.985542ab.js.map": "/portfolio-chavez/static/js/main.985542ab.js.map",
+    "787.28a7fba0.chunk.js.map": "/portfolio-chavez/static/js/787.28a7fba0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.489b3f7e.css",
-    "static/js/main.939da816.js"
+    "static/css/main.fdab0543.css",
+    "static/js/main.985542ab.js"
   ]
 }
