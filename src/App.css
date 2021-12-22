@@ -1,14 +1,21 @@
 .app {
+  height: 100vh;
+  width: 100vw;
   text-align: center;
   font-family: 'Nokio-Medium';
-  /* background-image: url("./assets/img/lapto.jpg");
+  background-image: url("./assets/img/lapto.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  object-fit: scale-down; */
+  object-fit: scale-down;
   background-color: #292929;
-
 }
-.color-logo{
+
+@font-face {
+  font-family: "Nokio-Medium";
+  src: url("./assets/fonts/Nokio-Medium.ttf") format("truetype");
+}
+
+/* .color-logo{
   width: 124px;
   height: 229px;
   background-color: #ffbb00;
@@ -17,6 +24,7 @@
 .app-logo {
   height: 40vmin;
   pointer-events: none;
+  margin: 10%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,31 +34,28 @@
 }
 
 .app-header {
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+.brand-logo {
+  width:30%;
+} */
 
 
-@font-face {
-  font-family: "Nokio-Medium";
-  src: url("./assets/fonts/Nokio-Medium.ttf") format("truetype");
-}
 
-@keyframes App-logo-spin {
+
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
 

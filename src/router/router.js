@@ -4,24 +4,24 @@ import {
     Routes,
     Route,
 } from "react-router-dom";
-import { AboutScreen } from './AboutScreen';
-import { LoginScreen } from './LoginScreen';
-import { HomeScreen } from './HomeScreen';
-import { Navbar } from './component/Navbar';
-import { NotFoundScreen } from './NotFoundScreen';
+import { AboutScreen } from '../screens/AboutScreen';
+import { HomeScreen } from '../screens/HomeScreen';
+import { Navbar } from '../components/Navbar';
+import { NoFoundScreen } from "../screens/NoFoundScreen";
+
 
 export const AppRouter = () => {
     return (
         <Router>
             <div>
                 <Navbar />
-                <div className='container'>
+                <div>Media pantalla izq</div>
+                <div>
+                Media pantalla derecha
                     <Routes>
                         <Route exact path="/" element={<HomeScreen />} />
                         <Route path="/about" element={<AboutScreen />} />
-                        <Route path="/login" element={<LoginScreen />} />
-
-                        <Route path="*" element={<NotFoundScreen />} />
+                        <Route path="*" element={<NoFoundScreen />} />
                     </Routes>
                 </div>
             </div>
