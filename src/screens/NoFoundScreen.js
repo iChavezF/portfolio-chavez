@@ -1,9 +1,11 @@
 import React from 'react'
+import { HeadManager } from '../components/HeadManager'
 
-export const NoFoundScreen = () => {
+export const NotFoundScreen = () => {
     return (
         <div>
-            NoFoundScreen
+            <HeadManager title='not found' />
+            NotFoundScreen
         </div>
     )
 }
