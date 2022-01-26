@@ -54,9 +54,6 @@ export const ShowcaseScreen = () => {
                             </p>
                         </div>
                     </div>
-                    <div className="showcase-image">
-                        <img src={serviciosapi} alt="servicios api" />
-                    </div>
                 </div>
             </div>
         </div>

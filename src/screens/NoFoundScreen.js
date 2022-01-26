@@ -5,7 +5,7 @@ export const NotFoundScreen = () => {
     return (
         <div>
             <HeadManager title='not found' />
-            NotFoundScreen
+            Not Found
         </div>
     )
 }
