@@ -3,7 +3,8 @@ import { NavLink } from "react-router-dom";
 
 export const Navbar = () => {
     let activeStyle = {
-        textDecoration: "underline"
+        textDecoration: "underline",
+        color:'#00adb5',
     };
     return (
         <header className="navmenu-wrapper">
@@ -16,6 +17,8 @@ export const Navbar = () => {
                     isActive ? activeStyle : undefined}>skills</NavLink>
                 <NavLink to="/showcases" style={({ isActive }) =>
                     isActive ? activeStyle : undefined}>showcases</NavLink>
+                <NavLink to="/blog" style={({ isActive }) =>
+                    isActive ? activeStyle : undefined}>blog</NavLink>
             </div>
         </header>
     );

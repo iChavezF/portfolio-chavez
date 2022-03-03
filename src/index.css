@@ -461,8 +461,27 @@ img.other-card-img {
   transition: background-color 0.2s linear;
 }
 
+.showcase-card-blog {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  background: #222831;
+  border-radius: 0.25em;
+  /* margin: -1em; */
+  padding: 1em 1em 0;
+  transition: background-color 0.2s linear;
+  cursor: pointer;
+}
+
 .showcase-card:hover,
 .showcase-card:focus {
+  background: #393e46;
+}
+
+.showcase-card-blog:hover,
+.showcase-card-blog:focus {
   background: #393e46;
 }
 

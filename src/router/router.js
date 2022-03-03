@@ -10,6 +10,7 @@ import { Navbar } from '../components/Navbar';
 import { NotFoundScreen } from "../screens/NoFoundScreen";
 import { ShowcaseScreen } from '../screens/ShowcaseScreen';
 import { SkillsScreen } from '../screens/SkillsScreen';
+import { BlogScreen } from '../screens/BlogScreen';
 
 
 export const AppRouter = () => {
@@ -21,6 +22,7 @@ export const AppRouter = () => {
                 <Route path="/about" element={<AboutScreen />} />
                 <Route path="/showcases" element={<ShowcaseScreen />} />
                 <Route path="/skills" element={<SkillsScreen />} />
+                <Route path="/blog" element={<BlogScreen />} />
                 <Route path="*" element={<NotFoundScreen />} />
             </Routes>
         </Router>
